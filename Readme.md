@@ -42,4 +42,4 @@ Database: Blog websites typically store data in a database. Popular databases in
 
 Web Server: A web server like Apache or Nginx is needed to serve the website content to users.
 
-Templating Engine: A templating engine like Jinja, Mako, or ERB is used to generate the HTML content of the website.
+Templating Engine: A templating engine like Jinja, Mako, or ERB is used to generate the HTML content of the website.ghdsfhshfsfg
